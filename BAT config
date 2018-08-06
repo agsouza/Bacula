@@ -1,5 +1,0 @@
-Director {
-  Name = bacula-dir
-  DIRport = 9101
-  address = localhost
-  Password = ";0UX>*>:d>2^ff[~[oYt"
